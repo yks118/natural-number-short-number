@@ -14,10 +14,10 @@ echo natural_number_to_short_number_hangul(1000);
 // 1천 -> 1000 (South Korea)
 echo short_number_hangul_to_natural_number('1천');
 
-// 1000 -> 1 千
+// 1000 -> 1 千 (South Korea)
 echo natural_number_to_short_number_hanja(1000);
 
-// 1千 -> 1000
+// 1千 -> 1000 (South Korea)
 echo short_number_hanja_to_natural_number('1千');
 
 // 1000 -> 1 Thousand
