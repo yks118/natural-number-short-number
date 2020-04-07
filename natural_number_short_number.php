@@ -18,7 +18,7 @@ if (!function_exists('natural_number_to_short_number'))
 
 		if ($original > 0)
 		{
-			$number = 0;
+			$number = $original;
 			$unit = '';
 			foreach ($shorts as $key => $value)
 			{
